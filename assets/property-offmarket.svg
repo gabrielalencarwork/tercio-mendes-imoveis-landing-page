@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#090D16"/>
+      <stop offset="100%" stop-color="#162032"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5D77F"/>
+      <stop offset="100%" stop-color="#D4AF37"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgGrad)"/>
+  <!-- Neoclassical Columns Silhouette -->
+  <rect x="150" y="120" width="500" height="300" rx="8" fill="#1E293B" stroke="url(#goldGrad)" stroke-width="1.5"/>
+  <rect x="200" y="160" width="30" height="260" fill="url(#goldGrad)" opacity="0.6"/>
+  <rect x="300" y="160" width="30" height="260" fill="url(#goldGrad)" opacity="0.6"/>
+  <rect x="470" y="160" width="30" height="260" fill="url(#goldGrad)" opacity="0.6"/>
+  <rect x="570" y="160" width="30" height="260" fill="url(#goldGrad)" opacity="0.6"/>
+  <!-- Lock Emblem -->
+  <circle cx="400" cy="270" r="45" fill="rgba(7,15,30,0.9)" stroke="url(#goldGrad)" stroke-width="2"/>
+  <path d="M390 260 V245 C390 235 410 235 410 245 V260 M385 260 H415 V285 H385 Z" fill="none" stroke="#F5D77F" stroke-width="3"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#F5D77F">OPORTUNIDADE OFF-MARKET CONFIDENCIAL</text>
+</svg>
